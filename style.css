@@ -1,0 +1,203 @@
+/* thish is header - start */
+
+header {
+    background-image: url("new-year-new-me/images/banner/banner3.png");
+    background-repeat: no-repeat;
+    height: 810px;
+    width: 1250px;
+}
+
+.header-info {
+
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 200px;
+    width: 1240px;
+}
+
+.header-info h1 {
+    color: white;
+    font-size: 50px;
+    text-align: end;
+    padding-right: 10px;
+
+}
+
+.header-info p {
+    color: white;
+    font-size: 17.5px;
+    text-align: end;
+    padding-right: 10px;
+}
+
+.btn-area {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.btn-primary {
+    background-color: white;
+    border: 5px solid wheat;
+    height: 64px;
+    width: 160px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 10px;
+    color: rgb(11, 147, 231);
+    font-size: larger;
+}
+
+/* thish is header - start */
+
+/* thish is main - start */
+
+.first-section-text {
+    display: flex;
+    align-items: center;
+}
+
+.first-section {
+    display: flex;
+}
+
+.first-image img {
+    height: 723.2998046875px;
+    width: 569px;
+    left: 206px;
+    top: 939px;
+    border-radius: 0px;
+
+}
+
+.first-section-text-list ul li {
+    list-style: none;
+}
+
+.secoend-section {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 100px;
+}
+
+.secoend-image img {
+    height: 400.2998046875px;
+    width: 600.2998046875px;
+    left: 206px;
+    top: 939px;
+    border-radius: 0px;
+    padding-left: 50px;
+}
+
+.secoend-section-text {
+    display: flex;
+    align-items: center;
+}
+
+.third-section {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    height: 202.9583740234375px;
+    width: 1141px;
+    left: 230px;
+    top: 1889px;
+    border-radius: 0px;
+
+}
+
+.third-tittle {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    font-weight: 700px;
+    font-size: 40px;
+}
+
+.forth-section {
+    display: flex;
+    justify-content: center;
+}
+
+.forth-section-img {
+    height: 300px;
+    width: 1140px;
+    left: 230px;
+    top: 2221.95849609375px;
+    border-radius: 8px;
+    background: url('new-year-new-me/images/gradient1.png'), url('new-year-new-me/images/watch.png')
+}
+
+.forth-section-info {
+    margin: 50px
+}
+
+.forth-section-info h1 {
+    font-size: 40px;
+    color: white;
+}
+
+.forth-section-info button {
+    height: 64px;
+    width: 160px;
+    left: 294px;
+    top: 2398.95849609375px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #005FAC;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+}
+
+/* thish is main - end */
+
+/* thish is footer - start */
+
+footer{
+background: #151414;
+height: 500px;
+}
+
+.footer-frist-part h1{
+color: rgb(254, 254, 254);
+}
+
+.footer-frist-part p{
+    color: white;
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px;
+    height: 500px;
+}
+
+.input-text{
+    color: white;
+}
+
+.footer-input {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.footer-secoend-part h1{
+color: white;
+}
+
+.footer-btn {
+    height: 64px;
+    width: 170.1063232421875px;
+    background-color: #005FAC;
+    left: 1046px;
+    top: 2921.95849609375px;
+    border-radius: 8px;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+/* thish is footer - end */
